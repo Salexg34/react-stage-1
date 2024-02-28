@@ -1,9 +1,7 @@
 import Column from "./components/column"
 import data from "./data/data.json"
 
-
 function App() {
-  console.log(data.length);
   if(!data || data.length === 0) {
     return (
       <div>
