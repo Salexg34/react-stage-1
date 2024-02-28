@@ -1,0 +1,12 @@
+.legend {
+  position: relative;
+
+  text-align: center;
+  background: #cbc8c8;
+  min-width: 200px;
+  margin-bottom: 15px;
+  padding: 10px;
+
+  border-radius: 10px;
+  box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.1);
+}

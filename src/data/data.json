@@ -1,0 +1,65 @@
+[
+    {
+        "exercise": "Анжумания",
+        "statistics": [
+            {
+                "prefix": "Подход",
+                "value": 1200,
+                "postfix": "раз"
+            },
+            {
+                "prefix": "Подход",
+                "value": 2200,
+                "postfix": "раз"
+            }
+        ]
+    },
+    {
+        "exercise": "Пресскачат",
+        "statistics": [
+            {
+                "prefix": "Подход",
+                "value": 1200,
+                "postfix": "раз"
+            },
+            {
+                "prefix": "Подход",
+                "value": 1500,
+                "postfix": "раз"
+            },
+            {
+                "prefix": "Подход",
+                "value": 1000,
+                "postfix": "раз"
+            }
+        ]
+    },
+    {
+        "exercise": "Бегит",
+        "statistics": [
+            {
+                "prefix": "Круг",
+                "value": "4:25",
+                "postfix": "мин/км"
+            },
+            {
+                "prefix": "Круг",
+                "value": "5:01",
+                "postfix": "мин/км"
+            },
+            {
+                "prefix": "Круг",
+                "value": "4:45",
+                "postfix": "мин/км"
+            },
+            {
+                "prefix": "Круг",
+                "value": "8:35",
+                "postfix": "мин/км"
+            }
+        ]
+    },
+    {
+        "exercise": "Прыгать"
+    }
+]

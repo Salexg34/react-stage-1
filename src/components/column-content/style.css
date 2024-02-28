@@ -1,0 +1,30 @@
+.column {
+    display: flex;
+    flex-direction: column;
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.1);
+  }
+
+.column-content {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+
+    /* background-color: #efefef;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
+}
+
+.index {
+    font-weight: bold;
+    margin-right: 8px;
+}
+
+.prefix,
+.value,
+.postfix {
+    margin-right: 10px;
+}
